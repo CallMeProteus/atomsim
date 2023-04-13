@@ -1,0 +1,13 @@
+Atom.py   
+simulates posible positions of the elctron in a hydrogen atom, its a cloud of create_electrons
+indincating that the position is probabilty
+
+hygrogen.py
+returns a probability of finding an elecgtron at a given r radius of Bohr
+uses montecarlo algorithim
+ vary this variable to improve prediction
+
+Electron plot file 
+is an extension of hydrogen.py
+plots Distribution of the electron in a 3d scale, the brighter the point, the higher the  probability
+
