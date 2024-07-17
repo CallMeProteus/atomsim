@@ -1,3 +1,5 @@
+![Screenshot](https://raw.githubusercontent.com/CallMeProteus/atomsim/main/Screenshot%20from%202024-07-17%2013-50-07.png)
+
 # Hydrogen Atom Simulator
 
 The Hydrogen Atom Simulator is a Python application that allows users to visualize and explore the behavior of a hydrogen atom. It includes a 2D animation of electrons orbiting the nucleus and a 3D plot of the probability density function of the electron's position.
