@@ -63,4 +63,4 @@ The Hydrogen Atom Simulator was inspired by the need to visualize and understand
 The application uses various open-source libraries and tools to achieve its functionality.
 Contact
 
-If you have any questions or feedback, please feel free to contact the project maintainers at jafethyahuma@gmail.com.
+If you have any questions or feedback, please feel free to contact the project maintainers jafethyahuma@gmail.com or callmeproteus@yahoo.com.
